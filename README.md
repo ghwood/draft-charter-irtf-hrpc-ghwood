@@ -1,2 +1,2 @@
-# draft--charter-irtf-hrpc-ghwood
+# draft-charter-irtf-hrpc-ghwood
 Editorial review of proposed HRPC charter
